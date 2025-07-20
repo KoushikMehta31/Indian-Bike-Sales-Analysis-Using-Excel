@@ -24,7 +24,7 @@ Using Excel features like **Pivot Tables**, **Pivot Charts**, **Slicers**, and *
 
 ## 📊 Dashboard Preview
 
-![Indian Bike Sales Dashboard](Dashboard/dashboard(2).png)
+![Indian Bike Sales Dashboard](/Dashboard/dashboard(2).png)
 
 ---
 
